@@ -1,6 +1,12 @@
+using Data.DbContext;
+using Data.Repository;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+builder.Services.AddSingleton<DapperDbContext>();
+
+builder.Services.AddScoped<IDbInstance, DbInstance>();
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
