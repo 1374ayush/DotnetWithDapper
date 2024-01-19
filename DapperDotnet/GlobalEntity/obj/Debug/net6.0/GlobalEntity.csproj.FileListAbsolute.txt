@@ -10,3 +10,15 @@ C:\Users\ayushsrivastava03\OneDrive - Nagarro\Desktop\Dapper\DapperDotnet\Global
 C:\Users\ayushsrivastava03\OneDrive - Nagarro\Desktop\Dapper\DapperDotnet\GlobalEntity\obj\Debug\net6.0\refint\GlobalEntity.dll
 C:\Users\ayushsrivastava03\OneDrive - Nagarro\Desktop\Dapper\DapperDotnet\GlobalEntity\obj\Debug\net6.0\GlobalEntity.pdb
 C:\Users\ayushsrivastava03\OneDrive - Nagarro\Desktop\Dapper\DapperDotnet\GlobalEntity\obj\Debug\net6.0\ref\GlobalEntity.dll
+C:\Users\ayushsrivastava03\OneDrive - Nagarro\Desktop\DotnetWithDapper\DapperDotnet\GlobalEntity\bin\Debug\net6.0\GlobalEntity.deps.json
+C:\Users\ayushsrivastava03\OneDrive - Nagarro\Desktop\DotnetWithDapper\DapperDotnet\GlobalEntity\bin\Debug\net6.0\GlobalEntity.dll
+C:\Users\ayushsrivastava03\OneDrive - Nagarro\Desktop\DotnetWithDapper\DapperDotnet\GlobalEntity\bin\Debug\net6.0\GlobalEntity.pdb
+C:\Users\ayushsrivastava03\OneDrive - Nagarro\Desktop\DotnetWithDapper\DapperDotnet\GlobalEntity\obj\Debug\net6.0\GlobalEntity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayushsrivastava03\OneDrive - Nagarro\Desktop\DotnetWithDapper\DapperDotnet\GlobalEntity\obj\Debug\net6.0\GlobalEntity.AssemblyInfoInputs.cache
+C:\Users\ayushsrivastava03\OneDrive - Nagarro\Desktop\DotnetWithDapper\DapperDotnet\GlobalEntity\obj\Debug\net6.0\GlobalEntity.AssemblyInfo.cs
+C:\Users\ayushsrivastava03\OneDrive - Nagarro\Desktop\DotnetWithDapper\DapperDotnet\GlobalEntity\obj\Debug\net6.0\GlobalEntity.csproj.CoreCompileInputs.cache
+C:\Users\ayushsrivastava03\OneDrive - Nagarro\Desktop\DotnetWithDapper\DapperDotnet\GlobalEntity\obj\Debug\net6.0\GlobalEntity.sourcelink.json
+C:\Users\ayushsrivastava03\OneDrive - Nagarro\Desktop\DotnetWithDapper\DapperDotnet\GlobalEntity\obj\Debug\net6.0\GlobalEntity.dll
+C:\Users\ayushsrivastava03\OneDrive - Nagarro\Desktop\DotnetWithDapper\DapperDotnet\GlobalEntity\obj\Debug\net6.0\refint\GlobalEntity.dll
+C:\Users\ayushsrivastava03\OneDrive - Nagarro\Desktop\DotnetWithDapper\DapperDotnet\GlobalEntity\obj\Debug\net6.0\GlobalEntity.pdb
+C:\Users\ayushsrivastava03\OneDrive - Nagarro\Desktop\DotnetWithDapper\DapperDotnet\GlobalEntity\obj\Debug\net6.0\ref\GlobalEntity.dll

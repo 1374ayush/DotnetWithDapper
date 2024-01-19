@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ayushsrivastava03\\OneDrive - Nagarro\\Desktop\\Dapper\\DapperDotnet\\GlobalEntity\\GlobalEntity.csproj",
+      "projectUniqueName": "C:\\Users\\ayushsrivastava03\\OneDrive - Nagarro\\Desktop\\DotnetWithDapper\\DapperDotnet\\GlobalEntity\\GlobalEntity.csproj",
       "projectName": "GlobalEntity",
-      "projectPath": "C:\\Users\\ayushsrivastava03\\OneDrive - Nagarro\\Desktop\\Dapper\\DapperDotnet\\GlobalEntity\\GlobalEntity.csproj",
+      "projectPath": "C:\\Users\\ayushsrivastava03\\OneDrive - Nagarro\\Desktop\\DotnetWithDapper\\DapperDotnet\\GlobalEntity\\GlobalEntity.csproj",
       "packagesPath": "C:\\Users\\ayushsrivastava03\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ayushsrivastava03\\OneDrive - Nagarro\\Desktop\\Dapper\\DapperDotnet\\GlobalEntity\\obj\\",
+      "outputPath": "C:\\Users\\ayushsrivastava03\\OneDrive - Nagarro\\Desktop\\DotnetWithDapper\\DapperDotnet\\GlobalEntity\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

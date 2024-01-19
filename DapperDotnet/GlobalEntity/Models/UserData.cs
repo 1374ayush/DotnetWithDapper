@@ -1,13 +1,12 @@
 ﻿
 namespace GlobalEntity.Models
 {
+    //this is for authorization usinf jwt token
     public class UserData
     {
-     
-        public int Id { get; set; }
-        public string Name { get; set; }
         public string Email { get; set; }
-        public string Password { get; set; }
+        public byte[] Password { get; set; }
+        public byte[] PasswordHash { get; set; } 
     }
 
 }

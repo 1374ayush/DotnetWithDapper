@@ -1,6 +1,7 @@
 ﻿using Data.DTO;
 using Data.Models;
 using Data.Repository;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -16,6 +17,7 @@ namespace DapperDotnet.Controllers
         }
 
         [HttpGet("UserList")]
+        [Authorize]
         public async Task<IActionResult> GetData()
         {
             var data = await _dbInstance.GetData();  
