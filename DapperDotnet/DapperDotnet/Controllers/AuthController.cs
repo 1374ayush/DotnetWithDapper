@@ -1,7 +1,5 @@
 ﻿using Data.DTO;
-using Data.Repository;
-using GlobalEntity.Models;
-using Microsoft.AspNetCore.Http;
+using Data.Repository.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 
 namespace DapperDotnet.Controllers
@@ -20,7 +18,7 @@ namespace DapperDotnet.Controllers
         [HttpPost("register")]
         public async Task<IActionResult> RegisterUser(UserDto user)
         {
-            UserDataSec response = await _authRepo.register(user);
+            var response = await _authRepo.register(user);
             return Ok(response);
         }
 

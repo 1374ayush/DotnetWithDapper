@@ -1,5 +1,5 @@
 ﻿
-namespace GlobalEntity.Models
+namespace Data.Models
 {
     //this is for authorization usinf jwt token
     public class UserData

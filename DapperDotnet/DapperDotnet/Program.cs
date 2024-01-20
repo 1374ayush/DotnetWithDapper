@@ -1,5 +1,6 @@
 using Data.DbContext;
 using Data.Repository;
+using Data.Repository.Interfaces;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
@@ -11,6 +12,7 @@ builder.Services.AddSingleton<DapperDbContext>();
 
 builder.Services.AddScoped<IDbInstance, DbInstance>();
 builder.Services.AddScoped<IauthRepo, authRepo>();
+builder.Services.AddScoped(typeof(IGenricRepo<>), typeof(GenericRepo<>));
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

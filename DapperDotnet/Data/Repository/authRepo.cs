@@ -5,13 +5,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using GlobalEntity.Models;
 using Data.DTO;
 using System.Security.Cryptography;
 using Dapper;
 using System.Security.Claims;
 using Microsoft.IdentityModel.Tokens;
 using System.IdentityModel.Tokens.Jwt;
+using Data.Models;
+using Data.Repository.Interfaces;
 
 namespace Data.Repository
 {

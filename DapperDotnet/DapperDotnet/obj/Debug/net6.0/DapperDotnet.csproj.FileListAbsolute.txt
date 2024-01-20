@@ -119,9 +119,7 @@ C:\Users\ayushsrivastava03\OneDrive - Nagarro\Desktop\DotnetWithDapper\DapperDot
 C:\Users\ayushsrivastava03\OneDrive - Nagarro\Desktop\DotnetWithDapper\DapperDotnet\DapperDotnet\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\ayushsrivastava03\OneDrive - Nagarro\Desktop\DotnetWithDapper\DapperDotnet\DapperDotnet\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\ayushsrivastava03\OneDrive - Nagarro\Desktop\DotnetWithDapper\DapperDotnet\DapperDotnet\bin\Debug\net6.0\Data.dll
-C:\Users\ayushsrivastava03\OneDrive - Nagarro\Desktop\DotnetWithDapper\DapperDotnet\DapperDotnet\bin\Debug\net6.0\GlobalEntity.dll
 C:\Users\ayushsrivastava03\OneDrive - Nagarro\Desktop\DotnetWithDapper\DapperDotnet\DapperDotnet\bin\Debug\net6.0\Data.pdb
-C:\Users\ayushsrivastava03\OneDrive - Nagarro\Desktop\DotnetWithDapper\DapperDotnet\DapperDotnet\bin\Debug\net6.0\GlobalEntity.pdb
 C:\Users\ayushsrivastava03\OneDrive - Nagarro\Desktop\DotnetWithDapper\DapperDotnet\DapperDotnet\obj\Debug\net6.0\DapperDotnet.csproj.AssemblyReference.cache
 C:\Users\ayushsrivastava03\OneDrive - Nagarro\Desktop\DotnetWithDapper\DapperDotnet\DapperDotnet\obj\Debug\net6.0\DapperDotnet.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\ayushsrivastava03\OneDrive - Nagarro\Desktop\DotnetWithDapper\DapperDotnet\DapperDotnet\obj\Debug\net6.0\DapperDotnet.AssemblyInfoInputs.cache

@@ -3,9 +3,11 @@ using Data.DbContext;
 using Data.Models;
 using Data.DTO;
 using System.Data;
+using Data.Repository.Interfaces;
 
 namespace Data.Repository
 {
+    //assume this as a product repo , it is not for user, // dbInstance repo is only for adding product and here we consider product as user
     public class DbInstance:IDbInstance
     {
         private readonly DapperDbContext _dbContext;

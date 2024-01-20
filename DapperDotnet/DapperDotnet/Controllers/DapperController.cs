@@ -1,6 +1,6 @@
 ﻿using Data.DTO;
 using Data.Models;
-using Data.Repository;
+using Data.Repository.Interfaces;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -11,8 +11,8 @@ namespace DapperDotnet.Controllers
     [ApiController]
     public class DapperController : ControllerBase
     {
-        private readonly IDbInstance _dbInstance;
-        public DapperController(IDbInstance dbInstance) {
+        private readonly IGenricRepo<User> _dbInstance;
+        public DapperController(IGenricRepo<User> dbInstance) {
             _dbInstance = dbInstance;
         }
 

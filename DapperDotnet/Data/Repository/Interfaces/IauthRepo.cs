@@ -1,7 +1,8 @@
 ﻿using Data.DTO;
-using GlobalEntity.Models;
+using Data.Models;
 
-namespace Data.Repository
+
+namespace Data.Repository.Interfaces
 {
     public interface IauthRepo
     {
